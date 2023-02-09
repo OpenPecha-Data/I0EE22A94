@@ -1,0 +1,47 @@
+id: 2b4ffb9ee2694da0a8f04b3bc22c84d4
+annotation_type: index
+revision: '00001'
+annotations:
+  460405ba120848ce9111388cc2761220:
+    base: 8B85.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 18
+    - title: Homage
+      span:
+        start: 19
+        end: 44
+    - title: Short §1
+      span:
+        start: 45
+        end: 102
+    - title: Short §2
+      span:
+        start: 103
+        end: 175
+    - title: Short §3
+      span:
+        start: 176
+        end: 188
+    - title: Short §4
+      span:
+        start: 189
+        end: 278
+    - title: Short §5
+      span:
+        start: 279
+        end: 324
+    - title: Short §6
+      span:
+        start: 325
+        end: 403
+    - title: Short §7
+      span:
+        start: 404
+        end: 496
+    - title: Colophon
+      span:
+        start: 497
+        end: 512
